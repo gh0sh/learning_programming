@@ -6,3 +6,6 @@ https://www.rust-lang.org/tools/install
 
 Log :
 - Tambah Hello
+
+# Python
+Adding hello.py
